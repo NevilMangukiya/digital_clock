@@ -1,7 +1,4 @@
-![mer-removebg-preview](https://user-images.githubusercontent.com/111499522/194760771-857ee667-f4be-42e6-ad18-4c9af123af75.png)
-![j](https://user-images.githubusercontent.com/111499522/194760806-a5245dc6-f517-4dba-ae2f-2625120c2864.jpeg)
-![mer-removebg-preview](https://user-images.githubusercontent.com/111499522/194760810-3826a2e8-7746-4721-bb2d-4c72212a5bc0.png)
-![eart-removebg-preview](https://user-images.githubusercontent.com/111499522/194760812-0713f7c2-8fb8-4f4e-82d1-cae3a4be7e8a.png)
+
 # adv_viva_test_1
 
 A new Flutter project.
